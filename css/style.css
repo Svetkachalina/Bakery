@@ -65,6 +65,7 @@ a:hover {
     border-bottom: 2px solid #f15b40;
 }
 header img {
+    margin-top: 20px;
     margin-bottom: 20px;
 }
 .section-about {
